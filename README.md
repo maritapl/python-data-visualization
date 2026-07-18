@@ -1,6 +1,6 @@
 # python-data-visualization
 
-This repository contains simple and clean Python data visualization examples built using NumPy and Matplotlib.
+This project contains data visualization tasks built using NumPy and Matplotlib.
 The goal of this project is to demonstrate statistical visualization techniques and understanding of probability distributions.
 1.Gaussian Clusters
 Simulates and visualizes three 2D Gaussian (multivariate normal) clusters.
